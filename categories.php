@@ -1,9 +1,9 @@
 <?php
 // Подключение к базе данных
-$servername = "ваш_хост";
-$username = "ваше_имя_пользователя";
-$password = "ваш_пароль";
-$dbname = "ваша_база_данных";
+$servername = "https://i-nagatoro.github.io/ideahold.github.io/";
+$username = "root";
+$password = "vertrigo";
+$dbname = "delevery";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
